@@ -3,7 +3,7 @@
         'name' => 'l0max/password-history-checker',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '96780f37d747d27c1c99345484305f3cea46a718',
+        'reference' => '447629f45abdc939366eae3b7873ef6b8a620a6c',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -76,7 +76,7 @@
         'l0max/password-history-checker' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '96780f37d747d27c1c99345484305f3cea46a718',
+            'reference' => '447629f45abdc939366eae3b7873ef6b8a620a6c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
