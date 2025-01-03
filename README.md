@@ -1,7 +1,7 @@
 # Password History Checker
 
-[![Latest Version](https://img.shields.io/github/v/release/L0MAX/laravel-password-history.svg?style=flat-square)](https://github.com/L0MAX/laravel-password-history-checker/releases)
-[![Total Downloads](https://img.shields.io/packagist/dt/L0MAX/laravel-password-history.svg?style=flat-square)](https://packagist.org/packages/L0MAX/laravel-password-history-checker)
+[![Latest Version](https://img.shields.io/github/v/release/L0MAX/laravel-password-history-checker.svg?style=flat-square)](https://github.com/L0MAX/laravel-password-history-checker/releases)
+[![Total Downloads](https://img.shields.io/packagist/dt/l0max/password-history-checker.svg?style=flat-square)](https://packagist.org/packages/l0max/password-history-checker)
 
 A Laravel package that prevents users from resetting their password to one they have used before. This package ensures that password reuse is restricted by checking against a history of previously used passwords.
 
