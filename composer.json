@@ -1,5 +1,5 @@
 {
-    "name": "L0MAX/laravel-password-history",
+    "name": "l0max/laravel-password-history",
     "description": "Password history checker in laravel",
     "type": "library",
     "license": "MIT",

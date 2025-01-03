@@ -35,7 +35,7 @@ class ComposerStaticInit00a155cf6f0a3f6abe500b952df94507
         ),
         'L' => 
         array (
-            'L0m4x\\LaravelPasswordHistory\\' => 29,
+            'L0MAX\\PasswordHistoryChecker\\' => 29,
         ),
         'I' => 
         array (
@@ -86,15 +86,15 @@ class ComposerStaticInit00a155cf6f0a3f6abe500b952df94507
         array (
             0 => __DIR__ . '/..' . '/psr/clock/src',
         ),
-        'L0m4x\\LaravelPasswordHistory\\' => 
+        'L0MAX\\PasswordHistoryChecker\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
         'Illuminate\\Support\\' => 
         array (
-            0 => __DIR__ . '/..' . '/illuminate/macroable',
+            0 => __DIR__ . '/..' . '/illuminate/collections',
             1 => __DIR__ . '/..' . '/illuminate/conditionable',
-            2 => __DIR__ . '/..' . '/illuminate/collections',
+            2 => __DIR__ . '/..' . '/illuminate/macroable',
             3 => __DIR__ . '/..' . '/illuminate/support',
         ),
         'Illuminate\\Contracts\\' => 

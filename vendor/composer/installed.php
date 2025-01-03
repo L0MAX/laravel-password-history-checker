@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
-        'name' => 'l0m4x/laravel-password-history',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'name' => 'l0max/laravel-password-history',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '422937cbf8a88456a05370daf0f8c9b5867c8c3e',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -73,10 +73,10 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'l0m4x/laravel-password-history' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+        'l0max/laravel-password-history' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '422937cbf8a88456a05370daf0f8c9b5867c8c3e',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
