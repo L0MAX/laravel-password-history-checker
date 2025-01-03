@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "L0MAX\\LaravelPasswordHistory\\": "src/"
+            "L0MAX\\PasswordHistoryChecker\\": "src/"
         }
     },
     "extra": {
