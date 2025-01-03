@@ -1,0 +1,29 @@
+{
+    "name": "L0MAX/laravel-password-history",
+    "description": "Password history checker in laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "L0MAX\\LaravelPasswordHistory\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "L0MAX\\PasswordHistoryChecker\\PasswordHistoryServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "L0MAX",
+            "email": "ankahdonatus@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0",
+        "illuminate/support": "^8.0|^9.0|^10.0"
+    }
+}
