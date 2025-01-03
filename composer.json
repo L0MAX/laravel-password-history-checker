@@ -1,8 +1,23 @@
 {
     "name": "l0max/password-history-checker",
     "description": "Password history checker in laravel",
+    "keywords": [
+        "laravel",
+        "laravel-authentication",
+        "laravel-login",
+        "laravel-security",
+        "laravel-password",
+        "laravel-package",
+        "PHP"
+    ],
+    "homepage": "https://github.com/l0max/laravel-password-history-checker",
     "type": "library",
     "license": "MIT",
+    "require": {
+        "php": "^7.1.3|7.2.*|7.3.*|7.4.*|8.*",
+        "laravel/framework": "~5.1|6.*|7.*|8.*|9.*|10.*|11.*",
+        "illuminate/support": "^8.0|^9.0|^10.0"
+    },
     "autoload": {
         "psr-4": {
             "L0MAX\\PasswordHistoryChecker\\": "src/"
@@ -22,9 +37,6 @@
         }
     ],
     "minimum-stability": "beta",
-    "prefer-stable": true,
-    "require": {
-        "php": ">=8.0",
-        "illuminate/support": "^8.0|^9.0|^10.0"
-    }
+    "prefer-stable": true
+
 }
